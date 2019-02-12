@@ -1,0 +1,692 @@
+fileFormatVersion: 2
+guid: 03aa836665a9f7a4f9199578bb7cbbf7
+timeCreated: 1491319693
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: supermetroid_metroids_sheet_0
+    21300002: supermetroid_metroids_sheet_1
+    21300004: supermetroid_metroids_sheet_2
+    21300006: supermetroid_metroids_sheet_3
+    21300008: supermetroid_metroids_sheet_4
+    21300010: supermetroid_metroids_sheet_5
+    21300012: supermetroid_metroids_sheet_6
+    21300014: supermetroid_metroids_sheet_7
+    21300016: supermetroid_metroids_sheet_8
+    21300018: supermetroid_metroids_sheet_9
+    21300020: supermetroid_metroids_sheet_10
+    21300022: supermetroid_metroids_sheet_11
+    21300024: supermetroid_metroids_sheet_12
+    21300026: supermetroid_metroids_sheet_13
+    21300028: supermetroid_metroids_sheet_14
+    21300030: supermetroid_metroids_sheet_15
+    21300032: supermetroid_metroids_sheet_16
+    21300034: supermetroid_metroids_sheet_17
+    21300036: supermetroid_metroids_sheet_18
+    21300038: supermetroid_metroids_sheet_19
+    21300040: supermetroid_metroids_sheet_20
+    21300042: supermetroid_metroids_sheet_21
+    21300044: supermetroid_metroids_sheet_22
+    21300046: supermetroid_metroids_sheet_23
+    21300048: supermetroid_metroids_sheet_24
+    21300050: supermetroid_metroids_sheet_25
+    21300052: supermetroid_metroids_sheet_26
+    21300054: supermetroid_metroids_sheet_27
+    21300056: supermetroid_metroids_sheet_28
+    21300058: supermetroid_metroids_sheet_29
+    21300060: supermetroid_metroids_sheet_30
+    21300062: supermetroid_metroids_sheet_31
+    21300064: supermetroid_metroids_sheet_32
+    21300066: supermetroid_metroids_sheet_33
+    21300068: supermetroid_metroids_sheet_34
+    21300070: supermetroid_metroids_sheet_35
+    21300072: supermetroid_metroids_sheet_36
+    21300074: supermetroid_metroids_sheet_37
+    21300076: supermetroid_metroids_sheet_38
+    21300078: supermetroid_metroids_sheet_39
+    21300080: supermetroid_metroids_sheet_40
+    21300082: supermetroid_metroids_sheet_41
+    21300084: supermetroid_metroids_sheet_42
+    21300086: supermetroid_metroids_sheet_43
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 357
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 357
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 357
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 357
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 357
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 357
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 357
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 357
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 357
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 357
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 357
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 357
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 365
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 365
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 363
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 316
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 316
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 316
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 316
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 316
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 316
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 316
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 332
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 276
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 276
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 276
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 276
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 276
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 276
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 276
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 299
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 269
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 181
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 183
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 180
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 180
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 91
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 91
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 93
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 93
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_metroids_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

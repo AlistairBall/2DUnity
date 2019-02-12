@@ -1,0 +1,510 @@
+fileFormatVersion: 2
+guid: fbe66b5055bd3014fa5f08171818d1ce
+timeCreated: 1485273718
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: supermetroid_spacepirates_sheet_0
+    21300002: supermetroid_spacepirates_sheet_1
+    21300004: supermetroid_spacepirates_sheet_2
+    21300006: supermetroid_spacepirates_sheet_3
+    21300008: supermetroid_spacepirates_sheet_4
+    21300010: supermetroid_spacepirates_sheet_5
+    21300012: supermetroid_spacepirates_sheet_6
+    21300014: supermetroid_spacepirates_sheet_7
+    21300016: supermetroid_spacepirates_sheet_8
+    21300018: supermetroid_spacepirates_sheet_9
+    21300020: supermetroid_spacepirates_sheet_10
+    21300022: supermetroid_spacepirates_sheet_11
+    21300024: supermetroid_spacepirates_sheet_12
+    21300026: supermetroid_spacepirates_sheet_13
+    21300028: supermetroid_spacepirates_sheet_14
+    21300030: supermetroid_spacepirates_sheet_15
+    21300032: supermetroid_spacepirates_sheet_16
+    21300034: supermetroid_spacepirates_sheet_17
+    21300036: supermetroid_spacepirates_sheet_18
+    21300038: supermetroid_spacepirates_sheet_19
+    21300040: supermetroid_spacepirates_sheet_20
+    21300042: supermetroid_spacepirates_sheet_21
+    21300044: supermetroid_spacepirates_sheet_22
+    21300046: supermetroid_spacepirates_sheet_23
+    21300048: supermetroid_spacepirates_sheet_24
+    21300050: supermetroid_spacepirates_sheet_25
+    21300052: supermetroid_spacepirates_sheet_26
+    21300054: supermetroid_spacepirates_sheet_27
+    21300056: supermetroid_spacepirates_sheet_28
+    21300058: supermetroid_spacepirates_sheet_29
+    21300060: supermetroid_spacepirates_sheet_30
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 183
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 184
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 184
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 184
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 184
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 184
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 184
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 130
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 130
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 130
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 131
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 131
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 130
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 130
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 130
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 71
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 71
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 70
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 70
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 71
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 71
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 71
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 13
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 10
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 10
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 13
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 48
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: supermetroid_spacepirates_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 8
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
